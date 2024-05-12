@@ -1,0 +1,2 @@
+# MedTech - Hospital Management System
+ Medtech is a comprehensive Hospital Management System designed to streamline administrative, operational, and clinical workflows within healthcare facilities. Built with a robust tech stack including HTML, CSS, JavaScript, AJAX, jQuery, Bootstrap, SCSS, PHP, and MySQL, Medtech offers a user-friendly interface and powerful features tailored to meet the specific needs of hospitals and clinics.
