@@ -1,6 +1,8 @@
 # MedTech - Hospital Management System
  Medtech is a comprehensive Hospital Management System designed to streamline administrative, operational, and clinical workflows within healthcare facilities. Built with a robust tech stack including HTML, CSS, JavaScript, AJAX, jQuery, Bootstrap, SCSS, PHP, and MySQL, Medtech offers a user-friendly interface and powerful features tailored to meet the specific needs of hospitals and clinics. It is a cutting-edge solution designed to modernize hospital operations by digitizing and automating various administrative tasks. It serves as a centralized hub for managing patient information, room availability, staff schedules, and billing processes, significantly improving efficiency and reducing reliance on manual paperwork. This facilitates quicker decision-making and enhances the quality of patient care.
 
+ Deployed Link - https://medtechhospital-lakshay.000webhostapp.com/
+
 Technologies Used:
 Frontend: HTML, CSS, JavaScript, AJAX, jQuery, Bootstrap, SCSS
 Backend: PHP
