@@ -1,4 +1,4 @@
-# 🏥 **Medtech - Full Stack Hospital Management System** 🏥
+# **Medtech - Full Stack Hospital Management System** 🏥
 
 ## 💡 **Description**
 
